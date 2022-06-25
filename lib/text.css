@@ -1,0 +1,31 @@
+* {
+  line-height: 133%;
+}
+
+.uppercase {
+  text-transform: uppercase;
+}
+
+.underline {
+  text-decoration: underline;
+}
+
+span.marker {
+  background-color: yellow;
+}
+
+p.indent {
+  text-indent: 1em;
+}
+
+.bold {
+  font-weight: bold;
+}
+
+.italic {
+  font-style: italic;
+}
+
+ul.markers > li::before {
+  content: "- ";
+}

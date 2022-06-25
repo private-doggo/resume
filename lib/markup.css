@@ -1,0 +1,20 @@
+.row {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.column {
+  flex: 1;
+}
+
+.gap-small {
+  gap: 1rem;
+}
+
+.gap-medium {
+  gap: 2rem;
+}
+
+.gap-large {
+  gap: 4rem;
+}

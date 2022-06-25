@@ -1,0 +1,9 @@
+.normal {
+  padding-top: calc(2 * var(--cm));
+  padding-left: calc(3 * var(--cm));
+  padding-bottom: calc(2 * var(--cm));
+  padding-right: calc(1.5 * var(--cm));
+}
+
+.narrow {
+}

@@ -1,0 +1,13 @@
+:root {
+  --color-accent: #ffa400;
+}
+
+.color-primary {
+  color: #242424;
+}
+.color-secondary {
+  color: #757575;
+}
+.color-accent {
+  color: #ffa400;
+}

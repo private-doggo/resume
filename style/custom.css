@@ -1,0 +1,18 @@
+body {
+  background-color: #757575;
+}
+
+::selection {
+  background-color: lightblue;
+}
+
+.tasks > li::before {
+  color: var(--color-accent);
+}
+
+.skill {
+  width: fit-content;
+  padding: 0 0.35em;
+  margin-right: 0.5em;
+  border-bottom: 1px solid var(--color-accent);
+}

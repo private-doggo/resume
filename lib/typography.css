@@ -1,0 +1,42 @@
+:root {
+  /* here you can change font scaling */
+  font-size: calc(1.33 * 16px);
+}
+
+.enter {
+  margin-top: 1em;
+}
+
+.new-line {
+  margin-top: 0.35em;
+}
+
+/* Font sizes */
+
+.fs-8 {
+  font-size: calc(1rem * 8 / 16);
+}
+.fs-9 {
+  font-size: calc(1rem * 9 / 16);
+}
+.fs-10 {
+  font-size: calc(1rem * 10 / 16);
+}
+.fs-11 {
+  font-size: calc(1rem * 11 / 16);
+}
+.fs-12 {
+  font-size: calc(1rem * 12 / 16);
+}
+.fs-13 {
+  font-size: calc(1rem * 13 / 16);
+}
+.fs-14 {
+  font-size: calc(1rem * 14 / 16);
+}
+.fs-15 {
+  font-size: calc(1rem * 15 / 16);
+}
+.fs-16 {
+  font-size: calc(1rem * 16 / 16);
+}

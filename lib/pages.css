@@ -1,0 +1,19 @@
+.a4,
+.us-letter {
+  background-color: #fff;
+  margin: 0 auto;
+}
+
+.content {
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+}
+
+.a4 {
+  width: calc(21 * var(--cm));
+  height: calc(29.7 * var(--cm));
+}
+
+.us-letter {
+}
